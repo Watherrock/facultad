@@ -1,3 +1,5 @@
+tutorial basico de git para desarrollo en una rama
+
 git Clone
 git pull
 git status
@@ -5,3 +7,4 @@ git add
 git commit -m ""
 git pull
 
+FIN
